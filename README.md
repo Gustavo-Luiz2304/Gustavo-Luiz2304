@@ -1,11 +1,11 @@
-### Olá eu sou o Gustavo Luiz 🖐
+### OHello, I'm Gustavo, I'm a fullstack development student, as a web developer I have HTML5 and CSS skills, I take an English course
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-luiz-99ba88302/)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Luiz2304&show_icons=true&theme=dracula)
 
-### Tecnologias que eu uso no meu dia
+### These are the technologies I use
 
 <div style="dysplay: inline_block"><br/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
