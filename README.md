@@ -1,4 +1,4 @@
-### OHello, I'm Gustavo, I'm a fullstack development student, as a web developer I have HTML5 and CSS skills, I take an English course
+### Hello, I'm Gustavo, I'm a fullstack development student, as a web developer I have HTML5 and CSS skills, I take an English course
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-luiz-99ba88302/)
