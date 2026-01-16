@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-luiz-99ba88302/)
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Luiz2304&show_icons=true&theme=dracula)
+
 
 ### These are the technologies I use
 
