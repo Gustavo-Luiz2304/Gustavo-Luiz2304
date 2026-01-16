@@ -3,8 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-luiz-99ba88302/)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial)
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gustavo-Luiz2304&show_icons=true&theme=radical)
 ### These are the technologies I use
 
 <div style="dysplay: inline_block"><br/>
