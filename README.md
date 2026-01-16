@@ -18,17 +18,11 @@
 ### 📊 Minhas estatísticas do GitHub
 
 <p align="center">
-  <img
-    width="400"
-    src="https://github-readme-stats.vercel.app/api?username=Gustavo-Luiz2304&show_icons=true&theme=radical&include_all_commits=true"
-    alt="Estatísticas do GitHub"
-  />
-  <br><br>
-  <img
-    width="400"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Luiz2304&layout=compact&theme=radical"
-    alt="Linguagens mais usadas"
-  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Luiz2304&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Luiz2304&layout=compact&theme=radical&hide_border=true)
+
 </p>
 
 ---
