@@ -11,8 +11,9 @@ I am a **Full-Stack Development student** passionate about building web experien
 
 ### 📊 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Luiz2304&show_icons=true&theme=radical" alt="Estatísticas" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Luiz2304&layout=compact&theme=radical" alt="Linguagens" height="150" />
+ ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gustavo-Luiz2304&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Luiz2304&layout=compact&theme=radical)
 </p>
 ---
 
