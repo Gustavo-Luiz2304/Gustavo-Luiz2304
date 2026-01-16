@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <h1>Olá! Sou o Gustavo 👋</h1>
   <p>
     Sou um estudante de Desenvolvimento Full-Stack apaixonado por criar experiências web.
@@ -17,11 +17,7 @@
 
 ### 📊 Minhas estatísticas do GitHub
 
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Luiz2304&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Luiz2304&layout=compact&theme=radical&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gustavo-Luiz2304&show_icons=true&theme=radical)
 
 </p>
 
