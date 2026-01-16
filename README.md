@@ -1,26 +1,37 @@
 <div align="center">
   <h1>Olá! Sou o Gustavo 👋</h1>
-  <p>Sou um estudante de Desenvolvimento Full-Stack apaixonado por criar experiências web. Atualmente, estou aprimorando meus conhecimentos em <b>HTML5, CSS3 e JavaScript</b>.</p>
+  <p>
+    Sou um estudante de Desenvolvimento Full-Stack apaixonado por criar experiências web.
+    Atualmente, estou aprimorando meus conhecimentos em <b>HTML5, CSS3 e JavaScript</b>.
+  </p>
 </div>
 
-<hr>
+---
 
 ### 🚀 No que estou trabalhando:
-* 🔭 Atualmente estou aprendendo **Desenvolvimento Full-Stack**.
-* ⚡ **Curiosidade:** Eu gosto de resolver problemas e transformar ideias em código.
-* 💬 Como me contatar: <a href="https://www.linkedin.com/in/gustavo-luiz-99ba88302/">LinkedIn</a>
+- 🔭 Atualmente estou aprendendo **Desenvolvimento Full-Stack**
+- ⚡ **Curiosidade:** Gosto de resolver problemas e transformar ideias em código
+- 💬 Como me contatar: <a href="https://www.linkedin.com/in/gustavo-luiz-99ba88302/">LinkedIn</a>
 
-<hr>
+---
 
 ### 📊 Minhas estatísticas do GitHub
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Luiz2304&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img
+    width="400"
+    src="https://github-readme-stats.vercel.app/api?username=Gustavo-Luiz2304&show_icons=true&theme=radical&include_all_commits=true"
+    alt="Estatísticas do GitHub"
+  />
   <br><br>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Luiz2304&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img
+    width="400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Luiz2304&layout=compact&theme=radical"
+    alt="Linguagens mais usadas"
+  />
 </p>
 
-<hr>
+---
 
 ### 🛠️ Tecnologias e Ferramentas
 
