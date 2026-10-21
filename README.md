@@ -1,27 +1,23 @@
 <div align="center">
   <h1>Olá! Sou o Gustavo 👋</h1>
   <p>
-    Sou um estudante de Desenvolvimento Full-Stack apaixonado por criar experiências web.
-    Atualmente, estou aprimorando meus conhecimentos em <b>HTML5, CSS3 e JavaScript</b>.
+    Desenvolvedor Full Stack em formação e fundador da <b>Typon GL</b>.
+    Sou apaixonado por tecnologia e por transformar ideias em soluções digitais
+    que fazem diferença no dia a dia das pessoas.
+  </p>
+  <p>
+    Trabalho com <b>JavaScript, Node.js, HTML, CSS</b> e outras tecnologias modernas,
+    criando aplicações web, apps e projetos open source. Gosto de entender o problema
+    antes de escrever a primeira linha de código e de construir produtos bem pensados,
+    do início ao fim.
   </p>
 </div>
 
 ---
 
 ### 🚀 No que estou trabalhando:
-- 🔭 Atualmente estou aprendendo **Desenvolvimento Full-Stack**
-- ⚡ **Curiosidade:** Gosto de resolver problemas e transformar ideias em código
+- 🏢 Lidero a **Typon GL**, onde uno programação, criatividade e inteligência artificial para criar produtos que resolvem problemas reais
+- 🛠️ Desenvolvo e mantenho as aplicações web, apps mobile e produtos digitais da Typon GL, cuidando de todo o ciclo: **planejamento, arquitetura, desenvolvimento, testes e manutenção**
+- 🎯 **Foco:** soluções sólidas, escaláveis e bem estruturadas
+- 🔭 Continuo evoluindo como **Desenvolvedor Full Stack**
 - 💬 Como me contatar: <a href="https://www.linkedin.com/in/gustavo-luiz-99ba88302/">LinkedIn</a>
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</div>
